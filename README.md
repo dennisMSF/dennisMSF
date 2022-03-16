@@ -22,12 +22,12 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "Python, AWS, Data Science related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "C++, C#, SQL, Software Engineering",
-		"- 📫 How to reach me:":              "https://github.com/dennisMSF",
+		"- 📫 Contact me:":                   "https://github.com/dennisMSF",
 	}
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can contact me at :alien:</h2>
 
 <p align="center">
 
